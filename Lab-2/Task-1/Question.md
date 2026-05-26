@@ -1,0 +1,1 @@
+Let's consider a scenario where you have a large dataset of student records, and you need to sort these records based on their exam scores in descending order. The task is to implement a suitable divide and conquer algorithm to efficiently sort the student records.
